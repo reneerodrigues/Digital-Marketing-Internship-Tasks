@@ -49,9 +49,9 @@ Consequences: Higher bounce rates among visitors with local mobile cellular netw
 
 4. Actionable Recommendations (1-page summary)
 
-Optimized Meta Data: Change the Meta Title to: Padaria Prazeres | Artisan Bakery and Café in Panaji, Goa. Change the Meta Description to: Savor the finest quality Pastel de Nata, fresh sourdough bread, and traditional European pastries at Padaria Prazeres in Panaji, Goa. See our Menu here.
+Optimized Meta Data: Change the Meta Title to: Padaria Prazeres Artisan Bakery and Café in Panaji, Goa. Change the Meta Description to: Savor the finest quality Pastel de Nata, fresh sourdough bread, and traditional European pastries at Padaria Prazeres in Panaji, Goa. See our Menu here.
 
-Corrected Heading Structure: Implement a neat structure of headings. Utilize one H1 tag for your branded headline ("Padaria Prazeres | Artisan Bakery and Café in Goa"). Employ H2 headings for main sections of the web page content ("Our Daily Made Pastries", "Visit Us at Panjim Bakery") and H3 headings for separate food items.
+Corrected Heading Structure: Implement a neat structure of headings. Utilize one H1 tag for your branded headline ("Padaria Prazeres Artisan Bakery and Café in Goa"). Employ H2 headings for main sections of the web page content ("Our Daily Made Pastries", "Visit Us at Panjim Bakery") and H3 headings for separate food items.
 
 Next-Gen Image Files: Compress all HD photos of food products currently using large image files (.jpg and .png extensions). Optimize all photos by switching the image files to the new-generation .webp extension and compressing each photo to less than 150KB.
 
